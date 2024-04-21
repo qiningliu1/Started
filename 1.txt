@@ -1,3 +1,3 @@
-first line
-Second line
+This is my first Git test
+Try some code
 hello world
